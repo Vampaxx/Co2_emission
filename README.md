@@ -34,6 +34,11 @@ Utilize the language model (Google Palm) to parse and understand the user's inpu
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
 ```
+## DEMO WORKING
+
+
+https://github.com/Vampaxx/Co2_emission/assets/124393485/0dbf67dd-95da-4875-b659-f602649ffd0d
+
 
 ## Usage
 
